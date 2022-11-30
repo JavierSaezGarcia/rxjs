@@ -1,4 +1,5 @@
 # Proyecto inicial - RXJS
+### Es un proyecto guía para tener una serie de snippets o pequeños ejercicios clasificados en carpetas para así poder acceder de forma rápida.
 
 * Lo primero que debemos de hacer después de descargar el código es ejecutar el comando:
 
