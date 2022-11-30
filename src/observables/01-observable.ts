@@ -1,3 +1,7 @@
+/**
+ *  --- OBSERVABLE ---
+ */
+
 import { Observable, Observer } from 'rxjs';
 // const obs$ = Observable.create(); forma antigua
 
