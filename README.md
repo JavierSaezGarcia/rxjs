@@ -24,5 +24,11 @@ Por defecto, el puerto configurado para este proyecto es el ```8081```, pero si 
 
 Simplemente cambian el puerto por el que necesiten y listo. (lógicamente graben los cambios antes de ejecutar el ```npm start``` nuevamente)
 
-## Recuerden: cada vez que arranquen el proyecto es con ``` npm start ```. 
-## ¡No usen! ```ng serve -o``` 
+## Recuerden: cada vez que arranquen el proyecto es con 
+``` 
+npm start 
+``` 
+## ¡No usen! 
+```
+ng serve -o
+``` 
