@@ -1,10 +1,3 @@
-/**
- *  ---  ---
- * 
- * */
-
-
-import { } from 'rxjs';
-import {  } from 'rxjs/operators';
-import { ajax } from 'rxjs/ajax';
-
+/*
+colocar aqui el codigo de cada archivo
+*/		

@@ -6,7 +6,7 @@
  *  En cuanto se lleve a cabo la suscripción al Observable resultante, también se realizará la del Observable notifier.
  * */
 import { fromEvent, interval } from 'rxjs';
-import { sample, map } from 'rxjs/operators';
+import { sample } from 'rxjs/operators';
 
 // Ejemplo 1 
 // Emitir el valor más reciente desde el último muestreo, realizado cuando interval emite (cada 2s)
